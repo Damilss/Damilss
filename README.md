@@ -1,16 +1,11 @@
-## Hi there 👋
+```
+$ whoami
+emilio ledesma — computer engineering @ cal poly slo, '29
+building software systems · security · low-level · full-stack
 
-<!--
-**Damilss/Damilss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+$ now
+openhours  — ai office hours, scoped to your course (next.js, fastapi, openai)
+kymera     — fingerprint-obfuscating privacy browser (firefox extension -> private browser)
+$ links
+emilioledesma.com  ·  me@emilioledesma.com
+```
