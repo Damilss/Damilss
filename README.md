@@ -1,4 +1,4 @@
-```bash
+```
 $ whoami
 emilio ledesma — computer engineering @ cal poly slo, '29
 building software systems · security · low-level · full-stack · devops
