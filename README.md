@@ -1,7 +1,7 @@
 ```
 $ whoami
 emilio ledesma — computer engineering @ cal poly slo, '29
-security && low-level && devops
+OS && low-level && devops
 
 $ now
 realtyworks - modern Solutions for property management
