@@ -5,7 +5,7 @@ OS && low-level && devops
 
 $ now
 realtyworks - modern Solutions for property management
-devsize-plus - file management without the telemtry
+spi-can-pi4 drivers - functions and scripts for data logging on fsae car
 $ links
 emilioledesma.com  ·  me@emilioledesma.com
 ```
